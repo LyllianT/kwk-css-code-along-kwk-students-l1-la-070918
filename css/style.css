@@ -1,1 +1,24 @@
-/* add CSS class and element and selectors here */
+ /*add CSS class and element and selectors here */
+  body {
+      background-color: pink;
+      font-size: 140%;
+      background-image: url('https://media.giphy.com/media/Wj2VpMApaSeNq/giphy.gif/')
+    }
+  /*h1 {*/
+  /*  color: purple;*/
+  /*}*/
+  /*h2 {*/
+  /*  color: grey;*/
+  /*}*/
+  .info-section {
+    color: magenta;
+    font-size: 200%;
+    font-family: 'Gaegu', cursive;
+    border: 5px dotted red;
+  }
+  #title-section {
+    color: purple;
+  }
+  
+  
+    
